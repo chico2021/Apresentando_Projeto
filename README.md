@@ -4,4 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis lacus co
   
 https://codepen.io/andresantos2021/pen/yLbWGwe
 
+### Tecnologias Utilizadas
 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
